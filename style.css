@@ -98,7 +98,7 @@
      }
      nav{
       /* border: 1px solid red; */
-      width: 365px;
+      width: 375px;
       background-color: #062B4C;
       display: flex;
       flex-direction: column;
@@ -240,7 +240,7 @@
       }  
       .d22{
             display: flex;
-            width: 350px;
+            width: 370px;
             margin-left: 5px;
             flex-direction: row;
             justify-content: space-between;
@@ -336,7 +336,7 @@
       border: 2px solid #062B4C;
       width: 100%;
       border-top: none;
-      height: 447.5vh;
+      /* height: 447.5vh; */
      }
      .d23{
       background-image:url(asset/homeg.jpg) ;
@@ -377,7 +377,7 @@
       opacity: 1.0;
      }
      .block3{
-      width: 350px;
+      width: 370px;
       height: 1600px;
       margin-left: 5px;
       box-shadow: 10px 10px 38px 9px rgba(0,0,0,0.48);
@@ -418,7 +418,7 @@
       display: flex;
      }
      .card8{
-      width: 350px;
+      width: 370px;
       height: 130px;
       background-color: #103352;
       display: flex;
@@ -590,7 +590,7 @@
       }
       .card5{
        border: 2px solid #062B4C;
-       height: 673.5vh;
+       /* height: 673.5vh; */
 
       }
       .card4{
@@ -602,7 +602,7 @@
         text-align: center;
       }
       .my1{
-        width:340px;
+        width:365px;
         height:500px;
         margin: 10px;
         box-shadow: 10px 10px 38px 9px rgba(0,0,0,0.48);
@@ -638,7 +638,7 @@
        border-top: none;
      }
     .c3{
-      width:350px;
+      width:365px;
       height: 480px;
       padding: 10px;
       margin-left: 5px;
@@ -649,7 +649,7 @@
       /* margin-left: 35px; */
     }
     .c4{
-      width: 155px;
+      width: 165px;
       height: 450px;
       padding: 10px;
       background-color: white;
@@ -660,7 +660,7 @@
       font-size: smaller;
     }
     .c5{
-      width: 350px;
+      width: 365px;
       height: 500px;
       margin-left: 5px;
       background-image: url(asset/loc.png);
@@ -704,7 +704,7 @@
      }
      nav{
       /* border: 1px solid red; */
-      width: 760px;
+      width: 768px;
       background-color: #062B4C;
       /* position: fixed; */
       top: 10px;
@@ -935,7 +935,7 @@
      .card6{
       border: 2px solid #062B4C;
       border-top: none;
-      height: 261vh;
+      /* height: 261vh; */
      }
      .d23{
       background-image:url(asset/homeg.jpg) ;
@@ -1187,7 +1187,7 @@
       }
       .card5{
        border: 2px solid #062B4C;
-       height: 420.5vh;
+       /* height: 420.5vh; */
        border-top: none;
       }
       .card4{
@@ -1512,7 +1512,7 @@
      .card6{
       border: 2px solid #062B4C;
       border-top: none;
-      height: 383vh;
+      /* height: 383vh; */
      }
      .d23{
       background-image:url(asset/homeg.jpg) ;
@@ -1766,7 +1766,7 @@
       .card5{
        border: 2px solid #062B4C;
        border-top: none;
-       height: 587vh;
+       /* height: 587vh; */
       }
       .card4{
         background-image: url(asset/gallery2.jpg);
